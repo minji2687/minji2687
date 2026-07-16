@@ -31,7 +31,11 @@ React · Next.js · TypeScript · React Native
 
 💬 Ask Me About
 
-React · Next.js · React Native · Frontend Architecture
+- React & Next.js
+- React Native
+- Frontend architecture
+- Real-time data interfaces
+- Production frontend development
 
 ---
 
