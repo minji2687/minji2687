@@ -1,9 +1,9 @@
-# Minji Jo
+# Hi, I'm Minji 🌿
 
-Frontend Developer
 
-Building reliable user experiences
-for complex data and real-world operations.
+Frontend Developer with 5 years of experience building web and mobile services.
+
+I build reliable user experiences for complex data and real-world operations.
 
 ---
 
