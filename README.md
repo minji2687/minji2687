@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Minji
+# Hi, I'm Minji 👋
 
 Frontend Developer with 5 years of experience building web and mobile services.
 
-I enjoy building reliable user experiences while solving real-world frontend problems.
+I build reliable user experiences for complex data and real-world operations.
 
 ---
 
@@ -50,8 +50,14 @@ I enjoy building reliable user experiences while solving real-world frontend pro
 
 ### 📫 Contact
 
-- LinkedIn
-- minji2687@gmail.com
+- 🌐 Tech Blog
+  https://minji2687.github.io
+
+- 💼 LinkedIn
+  https://www.linkedin.com/in/minji-jo-967b2b208/
+
+- 📧 Email
+  minji2687@gmail.com
 
 ### ⚡ Fun Fact
 
