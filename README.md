@@ -1,4 +1,4 @@
-# Hi, I'm Minji 🌿
+# Hi, I'm Minji ⭐
 
 
 Frontend Developer with 5 years of experience building web and mobile services.
