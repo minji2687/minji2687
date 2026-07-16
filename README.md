@@ -16,7 +16,7 @@ I build reliable user experiences for complex data and real-world operations.
 
 🛠 Tech Stack
 
-React · Next.js · TypeScript · React Native
+  React · Next.js · TypeScript · React Native
 
 ---
 
