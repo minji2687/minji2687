@@ -3,7 +3,7 @@
 
 Frontend Developer with 5 years of experience building web and mobile services.
 
-I build reliable user experiences for complex data and real-world operations.
+Interested in building reliable user experiences for complex data, real-world operations, and thoughtful product design.
 
 ---
 
