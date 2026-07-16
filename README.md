@@ -6,60 +6,43 @@ I build reliable user experiences for complex data and real-world operations.
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - AI & LLM Application Development
 - NestJS
 - Frontend Architecture
-- Better Product Design
 
-### 🔭 Current Focus
+## 🛠 Tech Stack
 
-- Building my frontend portfolio
-- Writing technical articles
-- Preparing for my next frontend opportunity
+`React` `Next.js` `TypeScript` `React Native`  
+`Zustand` `React Query` `WebSocket` `MQTT`  
+`MapLibre GL` `AWS`
 
-### 💼 Experience
+## 🚀 Selected Experience
 
-- React
-- Next.js
-- TypeScript
-- React Native
-- Zustand
-- React Query
-- WebSocket / MQTT
-- AWS
+- Frontend development for a real-time monitoring web application
+- Frontend development for an equipment installation mobile web service
+- Frontend development for a React Native remote control application
+- Production maintenance, legacy refactoring, and admin development
 
-### 🚀 Featured Work
+## ✍️ Tech Blog
 
-- Autonomous Driving Monitoring System
-- Equipment Installation Mobile Web
-- Electric Tractor Remote Control App
+[https://minji2687.github.io](https://minji2687.github.io)
 
-### ✍️ Tech Blog
+## 💬 Ask Me About
 
-📖 https://minji2687.github.io
-
-### 💬 Ask me about
-
-- Frontend Development
 - React & Next.js
 - React Native
-- Real-time Data UI
-- UI Architecture
+- Frontend architecture
+- Real-time data interfaces
+- Production frontend development
 
-### 📫 Contact
+## 📫 Contact
 
-- 🌐 Tech Blog
-  https://minji2687.github.io
+- [LinkedIn](https://www.linkedin.com/in/minji-jo-967b2b208/)
+- [Email](mailto:minji2687@gmail.com)
 
-- 💼 LinkedIn
-  https://www.linkedin.com/in/minji-jo-967b2b208/
+## 🎨 Fun Fact
 
-- 📧 Email
-  minji2687@gmail.com
-
-### ⚡ Fun Fact
-
-🎨 I studied Fine Art before becoming a Frontend Developer.
-I love building products with both technology and aesthetics.
+I studied Fine Art before becoming a Frontend Developer.  
+I’m interested in building products with both technology and aesthetics.
